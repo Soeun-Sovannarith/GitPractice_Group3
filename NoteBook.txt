@@ -2,3 +2,5 @@ sout("NoteBook")
 
 Hi
 New Hi
+
+Add text from remote
