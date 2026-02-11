@@ -1,3 +1,0 @@
-sout("TextBook")
-
-Hello
